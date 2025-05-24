@@ -1,0 +1,5 @@
+api_key = "REPLACE"
+api_key_secret = "REPLACE"
+bearer_token = "REPLACE"
+access_token = "REPLACE"
+access_token_secret = "REPLACE"

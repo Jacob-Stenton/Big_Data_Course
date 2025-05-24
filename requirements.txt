@@ -1,0 +1,23 @@
+# unless you have a specific reason to keep these in a different order, keep it alphabetical
+# more on requirements files: 
+# https://www.geeksforgeeks.org/how-to-create-requirements-txt-file-in-python/
+# https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+beautifulsoup4
+freetype-py
+gtts
+jupyter
+matplotlib
+moviepy
+nltk
+pandas
+pillow==9.5.0
+pyautogui
+pymongo
+pytube
+randomuser
+requests
+scikit-image
+spacy
+spotipy
+tweepy

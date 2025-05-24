@@ -1,0 +1,1 @@
+"C:\Users\Jacob\miniconda3\envs\big-data-venv\python.exe" "C:\UAL-Creative-Computing\Year-Two\23-24-bsc-2-big-data\Final_Project\Version\TwiBot.py"
